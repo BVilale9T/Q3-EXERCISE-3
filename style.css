@@ -1,0 +1,28 @@
+body{
+	text-align: center;
+	font-family: sans-serif;
+	background-color: gray;
+}
+
+.container {
+	height: 400px;
+	width: 500px;
+	border-radius: 10px;
+	border: solid black 3px;
+	background-color: lightgray;
+	justify-content: center;
+	border-radius: 30px;
+	border-style: solid;
+	margin-top: 150px;
+
+}
+
+#button{
+	background-color: lightgray;
+	border-radius: 20px;
+	width: 20%;
+}
+
+div{
+
+}
